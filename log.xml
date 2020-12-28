@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-28T10:39:54</date>
+  <millis>1609151994376</millis>
+  <sequence>4</sequence>
+  <logger>org.enset.demo.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>org.enset.demo.aspects.Logging</class>
+  <method>log</method>
+  <thread>49</thread>
+  <message>Avant String org.enset.demo.controller.ContratController.save(Contrat)</message>
+</record>
+<record>
+  <date>2020-12-28T10:39:54</date>
+  <millis>1609151994478</millis>
+  <sequence>5</sequence>
+  <logger>org.enset.demo.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>org.enset.demo.aspects.Logging</class>
+  <method>log</method>
+  <thread>49</thread>
+  <message>Après String org.enset.demo.controller.ContratController.save(Contrat)</message>
+</record>
+<record>
+  <date>2020-12-28T10:39:54</date>
+  <millis>1609151994479</millis>
+  <sequence>6</sequence>
+  <logger>org.enset.demo.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>org.enset.demo.aspects.Logging</class>
+  <method>log</method>
+  <thread>49</thread>
+  <message>Durée : 103ms</message>
+</record>
+<record>
+  <date>2020-12-28T10:45:49</date>
+  <millis>1609152349663</millis>
+  <sequence>7</sequence>
+  <logger>org.enset.demo.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>org.enset.demo.aspects.Logging</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>Avant List org.enset.demo.controller.ContratController.index()</message>
+</record>
+<record>
+  <date>2020-12-28T10:45:50</date>
+  <millis>1609152350829</millis>
+  <sequence>8</sequence>
+  <logger>org.enset.demo.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>org.enset.demo.aspects.Logging</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>Après List org.enset.demo.controller.ContratController.index()</message>
+</record>
+<record>
+  <date>2020-12-28T10:45:50</date>
+  <millis>1609152350830</millis>
+  <sequence>9</sequence>
+  <logger>org.enset.demo.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>org.enset.demo.aspects.Logging</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>Durée : 1167ms</message>
+</record>
+<record>
+  <date>2020-12-28T10:45:50</date>
+  <millis>1609152350830</millis>
+  <sequence>10</sequence>
+  <logger>org.enset.demo.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>org.enset.demo.aspects.Logging</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>Avant List org.enset.demo.controller.ContratController.index()</message>
+</record>
+<record>
+  <date>2020-12-28T10:45:50</date>
+  <millis>1609152350831</millis>
+  <sequence>11</sequence>
+  <logger>org.enset.demo.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>org.enset.demo.aspects.Logging</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>Après List org.enset.demo.controller.ContratController.index()</message>
+</record>
+<record>
+  <date>2020-12-28T10:45:50</date>
+  <millis>1609152350831</millis>
+  <sequence>12</sequence>
+  <logger>org.enset.demo.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>org.enset.demo.aspects.Logging</class>
+  <method>log</method>
+  <thread>52</thread>
+  <message>Durée : 1ms</message>
+</record>
